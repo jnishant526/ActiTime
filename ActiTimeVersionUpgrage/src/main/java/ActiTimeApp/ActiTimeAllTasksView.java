@@ -37,4 +37,7 @@ public class ActiTimeAllTasksView {
 	public void ArchiveTask() {
 		Archive.click();
 	}
+	public void ArchiveTask1() {
+		Archive.click();
+	}
 }
